@@ -49,6 +49,8 @@ Plastic accounts for the highest disposed waste at around 9.5 million tonnes—o
 
 Overall, recycling success depends heavily on the type of material used. Metal is the most reliable material, maintaining a high recycling rate of around 91% and leaving minimal waste in landfills. While paper makes up the largest volume of recycled waste at 4.9 million tonnes, its recycling rate has dropped steadily over the past decade. Meanwhile, plastic poses the biggest environmental challenge, showing the lowest recycling rate at around 8%, a downward trend, and the highest disposed waste at 9.5 million tonnes. To improve sustainability and reduce landfill waste, businesses should shift away from single-use plastics, prioritize easily recyclable materials like metal, and focus on reducing overall packaging waste at the source.
 
+## Google Interactive Dashboard
+
 ## Tools
 1. Python
 2. Google Data Studio
