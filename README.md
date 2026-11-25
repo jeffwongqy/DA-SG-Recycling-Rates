@@ -14,9 +14,8 @@ Recycling plays an important role in Singapore's efforts to reduce waste and pro
 4. Is plastic recycling improving or declining?
 5. What is the distribution of recycling rates across the four materials?
 6. Which material has the greatest amount of waste disposed?
-7. How do recycling rates differ between materials over time?
 
-
+## Conclusion
 
 ## Tools
 1. Python
