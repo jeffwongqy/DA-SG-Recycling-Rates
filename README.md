@@ -1,5 +1,7 @@
 # How Have Recycling Rates for Paper, Plastic, Metal and Glass Changed in Singapore Over Time?
 
+**Important:** All figures are artificially generated for educational purposes. They are not actual Singapore NEA statistics. The monthly values include random variation and gradual trends to make the dataset suitable for chart-based analysis.
+
 <img width="1140" height="760" alt="recycling_sg" src="https://github.com/user-attachments/assets/131a78eb-0952-47a7-a632-f012c2947f52" />
 
 TBC
@@ -18,7 +20,5 @@ TBC
 ## Tools
 1. Python
 2. Google Data Studio
-
-Important: All figures are artificially generated for educational purposes. They are not actual Singapore NEA statistics. The monthly values include random variation and gradual trends to make the dataset suitable for chart-based analysis.
 
 ## References
