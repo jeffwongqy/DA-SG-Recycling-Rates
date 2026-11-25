@@ -52,5 +52,3 @@ Overall, recycling success depends heavily on the type of material used. Metal i
 ## Tools
 1. Python
 2. Google Data Studio
-
-## References
