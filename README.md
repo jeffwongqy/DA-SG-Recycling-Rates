@@ -8,7 +8,7 @@
 Recycling plays an important role in Singapore's efforts to reduce waste and promote environmental sustainability. Different materials, such as paper, plastic, metal and glass, may have varying recycling rates due to differences in usage, collection and recycling processes. This project aims to examine how recycling rates for these four materials have changed in Singapore over time. Using a synthetic dataset and data visualisation techniques, the analysis will compare recycling rates across materials, identify trends and explore changes in recycling performance over the years. The findings aim to provide a clearer understanding of recycling patterns and highlight the importance of sustainable waste management in Singapore.
 
 ## Analysis Questions
-### 1. Which material has the highest average recycling rate?
+## 1. Which material has the highest average recycling rate?
 2. Which material contributes the most to total recycled waste?
 3. How have paper recycling rates changed from 2015 to 2025?
 4. Is plastic recycling improving or declining?
