@@ -45,7 +45,9 @@ Overall, recycling performance depends heavily on material type. Metal is the mo
 
 ## Google Interactive Dashboard
 
-TBC
+<img width="1522" height="785" alt="Dashboard" src="https://github.com/user-attachments/assets/ab2ab346-fde6-4112-9570-d9a32ec43dbc" />
+
+Here is the link to visit the Google Dashboard: https://datastudio.google.com/reporting/e900ca39-bd1e-4633-af9e-e06cb43603bb 
 
 ## Tools
 1. Python
